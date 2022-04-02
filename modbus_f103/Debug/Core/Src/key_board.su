@@ -1,0 +1,4 @@
+key_board.c:19:6:heart_print	72	static
+key_board.c:68:6:kb_send_string	24	static
+key_board.c:73:6:key_board_send	16	static
+key_board.c:205:6:test_modifile	8	static
